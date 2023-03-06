@@ -4,6 +4,8 @@ import 'package:secion10/responsive/contexts/conaisten.dart';
 
 class MobileLogin extends StatelessWidget {
   const MobileLogin({Key? key}) : super(key: key);
+//login
+  //ggog
 
   @override
   Widget build(BuildContext context) {
